@@ -2,7 +2,7 @@
 
 > **Assignment:** Week 4 — Vibe Coding & Streamlit Dashboard Build  
 > **Author:** Penny Wang  
-> **Date:** September 18, 2026[cite: 3] 
+> **Date:** September 18, 2026
 > **Workflow Architecture:** Dual-engine paradigm — Gemini as the architectural planning & critique partner ("thought bucket") $\to$ Cursor Composer as the targeted executor.
 
 ---
