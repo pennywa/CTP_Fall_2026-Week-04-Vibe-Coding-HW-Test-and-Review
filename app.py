@@ -3,6 +3,12 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
+# Set dashboard to span full browser width
+st.set_page_config(
+    page_title="MovieLens Vibe Coding Dashboard",
+    page_icon="🎬",
+    layout="wide"
+)
 
 @st.cache_data
 def load_data():
